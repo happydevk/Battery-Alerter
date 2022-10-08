@@ -14,5 +14,5 @@
 # NOTIFICATIONS ALERT
 
 
-![notification](https://user-images.githubusercontent.com/115369924/194723050-8efe413b-3b51-4f00-9d50-6057c57d34de.PNG)
+![notification](https://user-images.githubusercontent.com/115369924/194723100-c576d57d-3a98-41eb-bf98-34f826fa51c1.PNG)
 
