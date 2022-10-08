@@ -16,3 +16,12 @@
 
 ![notification](https://user-images.githubusercontent.com/115369924/194723100-c576d57d-3a98-41eb-bf98-34f826fa51c1.PNG)
 
+
+
+
+# MANUAL GUIDE
+
+
+![MAUAL](https://user-images.githubusercontent.com/115369924/194723168-a31e95fa-7fd3-4c4a-a357-1f3801a0dced.PNG)
+
+
